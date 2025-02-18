@@ -1,0 +1,10 @@
+name: planet_manager
+description: Gerenciador de planetas com CRUD
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.0.0+3
+  path_provider: ^2.0.7
+  provider: ^6.0.4
+
